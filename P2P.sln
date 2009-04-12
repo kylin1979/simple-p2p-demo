@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2P", "P2P\P2P.csproj", "{016B0CC3-59EE-45AF-A8BC-48AF1B841E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{69BF1E58-0D2B-4D29-8FC7-0F8D21D79B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F6A89059-9838-463F-A1F1-F5F188AEA956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client2", "Client3\Client2.csproj", "{B392590F-C41D-46FD-80F3-F30A5FADFBE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016B0CC3-59EE-45AF-A8BC-48AF1B841E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016B0CC3-59EE-45AF-A8BC-48AF1B841E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016B0CC3-59EE-45AF-A8BC-48AF1B841E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016B0CC3-59EE-45AF-A8BC-48AF1B841E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BF1E58-0D2B-4D29-8FC7-0F8D21D79B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BF1E58-0D2B-4D29-8FC7-0F8D21D79B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BF1E58-0D2B-4D29-8FC7-0F8D21D79B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BF1E58-0D2B-4D29-8FC7-0F8D21D79B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A89059-9838-463F-A1F1-F5F188AEA956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A89059-9838-463F-A1F1-F5F188AEA956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A89059-9838-463F-A1F1-F5F188AEA956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A89059-9838-463F-A1F1-F5F188AEA956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B392590F-C41D-46FD-80F3-F30A5FADFBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B392590F-C41D-46FD-80F3-F30A5FADFBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B392590F-C41D-46FD-80F3-F30A5FADFBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B392590F-C41D-46FD-80F3-F30A5FADFBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
